@@ -1,4 +1,15 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+Multia
+SUPER COPA        SUPER COPA        SUPER COPA        SUPER COPA     SUPER COPA        SUPER COPA        SUPER COPA        SUPER COPA  
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png" group-title="Super Copa" tvg-id="Super Copa", [ ESP] Super Copa 1080 
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png" group-title="Super Copa" tvg-id="Super Copa", [ ESP] Super Copa 1080 
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png" group-title="Super Copa" tvg-id="Super Copa", [ ESP] Super Copa 720
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 LA LIGA                   LA LIGA              LA LIGA            LA LIGA            LA LIGA                LA LIGA             LA LIGA
 

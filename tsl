@@ -4,7 +4,7 @@ LA LIGA                   LA LIGA              LA LIGA
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="LaLiga 1080P" , [ ESP]LaLiga Tv Bar 1080
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
  
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] LaLiga Tv Bar 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] LaLiga Tv Bar 1080
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga 1080 Multiaudio
